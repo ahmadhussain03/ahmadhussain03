@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ahmadhussain03
-- 👀 I’m interested in PHP, Laravel, VueJS, ReactJS and Other JS Frameworks 
+- 👀 I’m interested in PHP, Laravel, NodeJS, ExpressJS, VueJS, ReactJS and Other JS Frameworks 
 - 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on Laravel Projects
 - 📫 Reach me at [ahmadhussain03@hotmail.com](mailto:ahmadhussain03@hotmail.com)
